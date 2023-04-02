@@ -16,13 +16,7 @@ Install the ChromeDriver executable that matches the version of Chrome installed
 Running the Test
 To run the test, follow these steps:
 
-Open a command prompt or terminal window, and navigate to the directory where you cloned the repository in step 1 of the setup instructions.
-
-Run the following command to compile the test code:
-javac -cp "lib/*" FileUploadTests.java
-
-Run the following command to run the test:
-java -cp ".:lib/*" org.junit.runner.JUnitCore FileUploadTests
+Using any code editor such as Intellij to open the code. Navigate to src/test/java and run FileUploadTest.java
 
 The test will start running, and you should see the Chrome browser window open up and navigate to the file upload page. The test results will be printed to the console once the test has completed.
 That's it! You have successfully set up and run the automated test for the file upload feature using Java Selenium. You can now modify the test code or add new test cases to further test the feature.

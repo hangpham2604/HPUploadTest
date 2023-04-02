@@ -1,0 +1,19 @@
+This is a test file for file upload testing.
+
+This case study will test your knowledge and level of comfort in testing. It would
+take around 3-5 hours to complete it; however, you can submit it within 3 days.
+As involved in a new project, you will be working on automating the regression
+tests on upload features from scratch. Please propose:
+● A test plan which can help deliver the product with the highest quality.
+● The architecture of the test framework.
+● Developing automated tests for upload features.
+Website to be tested: https://demo.guru99.com/test/upload/
+Notes: It would be highly recommended to have your answers in BDD syntax. The
+project should be implemented as a test framework. Development roadmap for the
+test framework is a plus.
+Reminder:
+The candidate should put the code into a new public github repo. Instructions of
+how to set up and run the test should be given in a README document.
+Once you have completed the case study, please email it back to Candy at
+“candy.duong@geocomply.com”.
+Thank You and Good Luck

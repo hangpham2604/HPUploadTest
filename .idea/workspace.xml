@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="024d6eb9-16d4-4031-aa5a-eff13030edfc" name="Default Changelist" comment="" />
+    <list default="true" id="024d6eb9-16d4-4031-aa5a-eff13030edfc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/HPUploadTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,20 +22,25 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2NlTdUVtjgOWDR79vDl8MR5Mc2r" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HPProject1" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/GeoComply/HPUploadTest"
+  }
+}]]></component>
   <component name="RunManager" selected="TestNG.FileUploadTest.testUploadMultipleFilesSuccessfully">
     <configuration name="FileUploadTest" type="TestNG">
       <module name="HPUploadTest" />
@@ -71,6 +84,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -84,48 +98,15 @@
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="274" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1680358778319">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="274" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1680358778319" />
-    <state x="437" y="259" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1680262334824" />
-    <state x="507" y="244" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1680358774579">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="507" y="244" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1680358774579" />
-    <state x="712" y="388" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1680262333208" />
-    <state x="763" y="359" key="FileChooserDialogImpl" timestamp="1680238503014">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="763" y="359" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1680238503014" />
-    <state width="1323" height="376" key="GridCell.Tab.0.bottom" timestamp="1680358877626">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="376" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1680358877626" />
-    <state width="1432" height="589" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1680262914796" />
-    <state width="1323" height="376" key="GridCell.Tab.0.center" timestamp="1680358877626">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="376" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1680358877626" />
-    <state width="1432" height="589" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1680262914796" />
-    <state width="1323" height="376" key="GridCell.Tab.0.left" timestamp="1680358877626">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="376" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1680358877626" />
-    <state width="1432" height="589" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1680262914796" />
-    <state width="1323" height="376" key="GridCell.Tab.0.right" timestamp="1680358877626">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="376" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1680358877626" />
-    <state width="1432" height="589" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1680262914796" />
-    <state x="513" y="259" key="Maven.ArtifactSearchDialog" timestamp="1680250204614">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="513" y="259" key="Maven.ArtifactSearchDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1680250204614" />
-    <state x="463" y="179" key="SettingsEditor" timestamp="1680238251000">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="463" y="179" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1680238251000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
